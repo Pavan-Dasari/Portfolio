@@ -1,0 +1,97 @@
+🔹 Header:
+
+Keep a fixed, minimal header with navigation to: Hero, About Me, Projects, Skills.
+
+Logo text: Pavan Dasari
+
+🔹 Hero Section:
+
+Background: Dark (black or deep charcoal), subtle animation or motion particles
+
+Typewriter animation: cycling through →
+
+“I am a Product Manager”
+
+“Product Owner”
+
+“Project Manager”
+
+“Product Builder”
+
+“Business Strategist”
+
+Below that, a glowing subline in one line:
+
+“I Build AI-Driven, Scalable Products”
+
+Then a glowing description (paragraph):
+
+“Product Manager with 4+ years of experience delivering tech products from 0→1. Launched microlearning platforms, AI features, and APIs powering thousands of users.”
+
+CTA Button: “Explore My Work” – glowing yellow with hover pulse animation
+
+🔹 About Me Section (No Image):
+
+One clean paragraph
+
+Emphasize:
+
+Global product leadership
+
+Technical background (Python, APIs, AI, dashboards)
+
+Cross-functional collaboration with global teams
+
+Product strategy, execution, and scalability
+
+🔹 Featured Projects Section (Interactive):
+
+Show 5 interactive project cards on the homepage
+
+Each card should show:
+
+Project Title
+
+Role (e.g., Founding PM, APM)
+
+Short description
+
+Result/Impact
+
+Hover effects + glowing “View Case Study” button
+
+Each project card should link to a separate detailed page
+
+🔹 Individual Project Pages:
+
+Unique colorful background for each
+
+Use 2D interactive elements to show:
+
+Product journey
+
+KPIs & growth
+
+Feature highlights
+
+Before/after user experience
+
+Optional charts/animations to show results (MVP growth, engagement boosts, etc.)
+
+🔹 Skills & Tools Section:
+
+Display every skill as glowing badge-style tiles, grouped but visually uniform (no separate tech vs soft)
+
+Example badges:
+
+Product Strategy, User Research, Agile, Python, APIs, Kibana, Figma, AI/ML, Generative AI, Roadmapping
+
+Hover = glow pulse effect
+
+❌ No Contact Section — do not include form or contact block
+
+🔚 Footer:
+
+Simple black footer with: “© 2025 Pavan Dasari. All rights reserved.”
+
+Links: Home | Projects | Resume | Skills
